@@ -1,0 +1,8 @@
+I use JavaScript with ES Modules, set up a package.json for configuration, and execute the programs using Node.js to complete this assignment.
+
+The code for Q1.task1 should be in min-heap_task1.js, and it import data from the data.txt file.
+The code for Q1.task2 should be in min-heap_task2.js, and it also import data from the data.txt file.
+
+The code for Q2, should be in min-heap_task2_q2.js, and it import data from the q2.txt file (this file contains the results from task 2).
+
+thanks.
